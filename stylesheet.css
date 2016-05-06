@@ -1,0 +1,32 @@
+h1 {
+  color: teal;
+}
+
+.red{
+ width: 100px;
+ height: 100px;
+ background-color: red;
+ color: red;
+ float: left;
+}
+
+.green{
+ width: 100px;
+ height: 100px;
+ background-color: green;
+ float: left;
+}
+
+.yellow{
+ width: 100px;
+ height: 100px;
+ background-color: yellow;
+ float: left;
+}
+
+.blue{
+ width: 100px;
+ height: 100px;
+ background-color:blue;
+ float: left;
+ }
